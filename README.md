@@ -1,3 +1,13 @@
+<!--
+  GitHub Profile README for github.com/shaikotahmed19
+  Style: Modern Dark / Navy + Cyan
+
+  Contact: LinkedIn and email supplied by the profile owner.
+  IMPORTANT: Confirm the email domain; currently set to "gmai.com" exactly as supplied.
+
+  Hero, skill icons and GitHub stats are served by third-party image services.
+  If a service is temporarily unavailable, its image may not render.
+-->
 
 <div align="center">
 
@@ -81,17 +91,20 @@ A few small, practical tools I've built and published. Each one includes a live 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shaikotahmed19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=22D3EE&text_color=C9D1D9"
+    src="https://github-stats-extended.vercel.app/api?username=shaikotahmed19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=22D3EE&text_color=C9D1D9"
     alt="Shaikot's GitHub statistics"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikotahmed19&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=shaikotahmed19&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
     alt="Most-used languages in Shaikot's public GitHub repositories"
     height="170"
   />
 
   <sub>Language stats reflect public repository code, not a complete measure of professional experience.</sub>
+
+  <br />
+  <sub>If stats cards are unavailable, <a href="https://github.com/shaikotahmed19?tab=overview">view my GitHub activity directly</a>.</sub>
 
 </div>
 
@@ -105,10 +118,10 @@ I'm happy to connect about **frontend projects**, **WordPress work**, **technica
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/shaikotahmed19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace placeholder" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:shaikot.a2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace placeholder" />
+  <a href="mailto:shaikot.a2006@gmai.com">
+    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 
   <br /><br />
